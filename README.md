@@ -27,3 +27,5 @@ Autonomous Navigation: Integrating a LIDAR system to allow the rover to learn au
 Conclusion:
 
 Creating this Autonomous Face and Object Detection Rover has been an immensely rewarding experience. It allowed me to explore the realms of hardware, electrical engineering, and software development while learning and implementing exciting computer vision concepts.
+![IMG_6750](https://github.com/PratikThapa24/Object_face_detection_rover/assets/125596457/26bc177e-9849-42a0-9996-19b7bc2d1466)
+
